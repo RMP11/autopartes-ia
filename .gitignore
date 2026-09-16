@@ -1,0 +1,8 @@
+# Excluir carpeta de datos
+data/
+*.csv
+*.xlsx
+
+# Archivos temporales de Colab y Python
+.ipynb_checkpoints/
+__pycache__/
